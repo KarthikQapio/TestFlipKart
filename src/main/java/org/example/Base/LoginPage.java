@@ -16,7 +16,7 @@ public class LoginPage {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.facebook.com");
-        Thread.sleep(2000);
+        Thread.sleep(4000);
     }
     public void enterAEmailAndPassword() throws InterruptedException {
         driver.findElement(By.xpath("//input[@id=\"email\"]")).sendKeys("karthikgowdaaaa");

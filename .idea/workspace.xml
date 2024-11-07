@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a21dfa-ac0c-4971-b83d-883f74269c9a" name="Changes" comment="New Code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Base/AbstractFacebookPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Base/Registrationpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AbstractFacebookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Base/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Base/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Base/Registrationpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Base/Registrationpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FacebookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FacebookTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
